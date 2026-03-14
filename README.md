@@ -12,5 +12,5 @@ Product category analysis
 Interactive dashboards
 
 ## Author
-Gayatri Gudla
+Gudla Gayathri
 B.Tech Student
